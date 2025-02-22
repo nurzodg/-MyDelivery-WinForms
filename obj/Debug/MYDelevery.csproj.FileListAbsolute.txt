@@ -1,0 +1,11 @@
+C:\Users\gaybu\source\repos\MYDelevery\MYDelevery\bin\Debug\MYDelevery.exe.config
+C:\Users\gaybu\source\repos\MYDelevery\MYDelevery\bin\Debug\MYDelevery.exe
+C:\Users\gaybu\source\repos\MYDelevery\MYDelevery\bin\Debug\MYDelevery.pdb
+C:\Users\gaybu\source\repos\MYDelevery\MYDelevery\obj\Debug\MYDelevery.csproj.AssemblyReference.cache
+C:\Users\gaybu\source\repos\MYDelevery\MYDelevery\obj\Debug\MYDelevery.Properties.Resources.resources
+C:\Users\gaybu\source\repos\MYDelevery\MYDelevery\obj\Debug\MYDelevery.csproj.GenerateResource.cache
+C:\Users\gaybu\source\repos\MYDelevery\MYDelevery\obj\Debug\MYDelevery.csproj.CoreCompileInputs.cache
+C:\Users\gaybu\source\repos\MYDelevery\MYDelevery\obj\Debug\MYDelevery.exe
+C:\Users\gaybu\source\repos\MYDelevery\MYDelevery\obj\Debug\MYDelevery.pdb
+C:\Users\gaybu\source\repos\MYDelevery\MYDelevery\obj\Debug\MYDelivery.Form1.resources
+C:\Users\gaybu\source\repos\MYDelevery\MYDelevery\obj\Debug\MYDelivery.Form2.resources
